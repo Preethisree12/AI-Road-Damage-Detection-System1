@@ -1,0 +1,3 @@
+Road damage detected in image: images/road.jpgRoad damage detected in image: images/road.jpg
+Road damage detected in image: images/roadwithoutpothole.jpg
+Road damage detected in image: images/road.jpg
